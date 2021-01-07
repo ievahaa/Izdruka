@@ -9,3 +9,4 @@ print("Sveika, "+"pasaule!") #var rakstīt komentārus
 print("Ieva "*7)
 print(60*60*24*365)
 print(0.1+0.2-0.3)
+print("Tūliņ beigsies stunda")
