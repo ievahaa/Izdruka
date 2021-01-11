@@ -8,3 +8,5 @@ print("Sveika, " + "pasaule!")
 print("Ieva " * 5)
 print(365 * 60 * 60 * 24)
 print(0.1 + 0.2 - 0.3)
+print()
+
