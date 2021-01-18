@@ -1,1 +1,1 @@
-import virknes
+import string_metodes
