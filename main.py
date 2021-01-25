@@ -1,1 +1,1 @@
-import string_metodes
+import lists
