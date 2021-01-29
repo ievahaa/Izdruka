@@ -1,1 +1,1 @@
-import lists
+import vardnica
