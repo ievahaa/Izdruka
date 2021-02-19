@@ -1,1 +1,1 @@
-import vardnica
+import while_cikls
