@@ -1,1 +1,1 @@
-import while_cikls
+import for_cikls
