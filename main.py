@@ -1,1 +1,1 @@
-import for_cikls
+import uzd_par_cikliem
