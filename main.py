@@ -1,1 +1,1 @@
-import uzd_par_cikliem
+import funkcijas
