@@ -1,1 +1,1 @@
-import funkcijas
+import funkc_uzd
