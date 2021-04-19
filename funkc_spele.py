@@ -18,14 +18,14 @@ def shuffle_list(mylist):
 #izveido funkciju, kas minēs
 def mans_minejums():
     minejums = ""
-    while minejums not in ["0","1","2"]:
-        minejums = input("Izvēlies skaitli - 0, 1, 2: ")
+    while minejums not in ["3","1","2"]:
+        minejums = input("Izvēlies skaitli - 1, 2, 3: ")
     return int(minejums)
 #indekss = mans_minejums()
 
 #izveido funkciju, kas pārbauda vai minējums sakrīt
 def parbaudi_minejumu(mylist,minejums):
-    if mylist[minejums] == "o":
+    if mylist[minejums-1] == "o":
         print("Uzvarēji! 🎉") #windows + .
     else:
         print("Zaudēji... 🙁 ")

@@ -1,1 +1,1 @@
-import funkc_spele
+import funkc_komb
