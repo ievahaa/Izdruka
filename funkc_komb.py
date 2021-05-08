@@ -22,3 +22,15 @@ def suluspiede2(aboli,apelsini):
     print(f"Sula no {abolu_gab} ābolu gabaliem un {apelsinu_gab} apelsīnu gabaliem.")
 
 suluspiede2(45,16)
+
+def animal_crackers(text):
+    an=[]
+    for i in text.split():
+        an.append(i)
+    if an[0][0]==an[1][0]:
+        return True
+    return False
+
+print(animal_crackers('Levelheaded Llama'))
+
+
