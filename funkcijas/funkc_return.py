@@ -28,7 +28,7 @@ def parbaudi_pari_list(saraksts):
             pass
     return False
 
-print(parbaudi_pari_list([1, 5, 3, 7]))
+print(parbaudi_pari_list([1, 5,2 , 7]))
 
 #atgriež visus pāra skaitļus, kas ir sarakstā
 def parbaudi_pari_list2(saraksts):
